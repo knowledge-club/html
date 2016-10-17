@@ -1,4 +1,4 @@
-<img src="icon.jpg" width="300" />
+<img src="icon.png" width="300" />
 
 HTML is the primary of web tecnologies. In your latest version, HTML 5 finally have natively support to things like audio, video, canvas, and more.
 
